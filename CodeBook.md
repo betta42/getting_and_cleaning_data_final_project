@@ -16,7 +16,7 @@ while carrying a smartphone embedded with motion sensors.
 Info about the original data and the variables names are taken from the 
 files "README.txt",  "activity_labels.txt" and "feature_info.txt" in the folder "UCI HAR Dataset".
 
-=========================================================================
+========================================================================= 
 
 # Description of transformations performed on the original data
 

@@ -179,5 +179,5 @@ for(i in activity_names){#loop over 6 activities
 #save tidy data in the original working directory
 setwd("..")
 setwd("..")
-write.table(new_data, "tidy_data.txt")
+write.table(new_data, "tidy_data.txt", row.name=FALSE)
 

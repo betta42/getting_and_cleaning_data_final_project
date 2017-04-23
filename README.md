@@ -18,7 +18,7 @@ The dataset includes the following files:
 - "run_analysis.R": R script to tidy data given in the assignment
 - "CodeBook.md": code book to "tidy_data.txt"
 
-=========================================
+========================================= 
 
 "run_analysis.R"
 
